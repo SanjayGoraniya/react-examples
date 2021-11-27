@@ -4,6 +4,7 @@
   "description": "React CRA Boilerplate",
   "private": true,
   "scripts": {
+    "config" : "sh config.sh",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
